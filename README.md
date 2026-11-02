@@ -49,7 +49,7 @@ The command `SET SERVEROUTPUT ON` should be executed before the message is print
 6. Execute `03_tests/test_error_cases.sql`
 7. Compare the results with screenshots in `screenshots/`
 
-## 8. Testing
+## 🧪 Testing
 - `test_success_cases.sql` shows normal operation of every procedure and function.
 - `test_error_cases.sql` triggers each handled error (duplicates, missing records, invalid grades, bulk failures).
 - Screenshots for each test are in screenshots
