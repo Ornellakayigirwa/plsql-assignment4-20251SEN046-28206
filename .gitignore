@@ -1,0 +1,14 @@
+# Oracle / SQL tool logs and temp files
+*.log
+*.lst
+*.tmp
+*.bak
+afiedt.buf
+
+# SQL Developer / editor settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
